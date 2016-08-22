@@ -14,3 +14,9 @@
 build/
 jars/
 jars-instrumented/
+
+.idea/
+out/
+
+lib/rescuecore.jar
+lib/resq-fire.jar
