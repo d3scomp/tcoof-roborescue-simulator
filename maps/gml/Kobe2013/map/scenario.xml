@@ -32,6 +32,7 @@
   <scenario:civilian scenario:location="25989"/>
   <scenario:civilian scenario:location="19262"/>
   <scenario:civilian scenario:location="12563"/>
+<!--
   <scenario:civilian scenario:location="26363"/>
   <scenario:civilian scenario:location="10066"/>
   <scenario:civilian scenario:location="29378"/>
@@ -222,6 +223,7 @@
   <scenario:civilian scenario:location="26074"/>
   <scenario:civilian scenario:location="32850"/>
   <scenario:civilian scenario:location="12987"/>
+-->
   <scenario:firebrigade scenario:location="15045"/>
   <scenario:firebrigade scenario:location="22713"/>
   <scenario:firebrigade scenario:location="9510"/>
@@ -248,6 +250,7 @@
   <scenario:policeforce scenario:location="13057"/>
   <scenario:policeforce scenario:location="3462"/>
   <scenario:policeforce scenario:location="31042"/>
+<!--
   <scenario:policeforce scenario:location="8439"/>
   <scenario:policeforce scenario:location="4119"/>
   <scenario:policeforce scenario:location="20291"/>
@@ -259,11 +262,13 @@
   <scenario:policeforce scenario:location="11607"/>
   <scenario:policeforce scenario:location="5568"/>
   <scenario:policeforce scenario:location="2940"/>
+-->
   <scenario:ambulanceteam scenario:location="317"/>
   <scenario:ambulanceteam scenario:location="34008"/>
   <scenario:ambulanceteam scenario:location="32980"/>
   <scenario:ambulanceteam scenario:location="28303"/>
   <scenario:ambulanceteam scenario:location="6522"/>
+<!--
   <scenario:ambulanceteam scenario:location="33449"/>
   <scenario:ambulanceteam scenario:location="6099"/>
   <scenario:ambulanceteam scenario:location="35332"/>
@@ -277,4 +282,5 @@
   <scenario:ambulanceteam scenario:location="32986"/>
   <scenario:ambulanceteam scenario:location="26421"/>
   <scenario:ambulanceteam scenario:location="21733"/>
+-->
 </scenario:scenario>
