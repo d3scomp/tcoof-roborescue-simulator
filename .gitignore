@@ -20,3 +20,19 @@ out/
 
 lib/rescuecore.jar
 lib/resq-fire.jar
+
+# Unversioned dirs created by build
+modules/clear/test/
+modules/collapse/test/
+modules/gis2/test/
+modules/handy/test/
+modules/human/test/
+modules/ignition/test/
+modules/kernel/test/
+modules/maps/test/
+modules/misc/test/
+modules/resq-fire/test/
+modules/sample/test/
+modules/traffic3/test/
+
+boot/rays/
