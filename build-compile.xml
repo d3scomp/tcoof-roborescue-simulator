@@ -57,6 +57,9 @@
         <fileset dir="${build.dir}/@{module}/classes" includes="**/*.class"/>
         <fileset dir="${modules.dir}/@{module}/resources" erroronmissingdir="false"/>
       </jar>
+      <jar destfile="${jar.dir}/@{module}-sources.jar" manifest="${modules.dir}/@{module}/manifest">
+        <fileset dir="${modules.dir}/@{module}/src" includes="**/*.java" />
+      </jar>
     </sequential>
   </macrodef>
 </project>
