@@ -8,8 +8,8 @@ processArgs $*
 rm -f $LOGDIR/*.log
 
 #startGIS
-startKernel --nomenu --autorun
-startSims
+startKernel --nomenu --autorun --nogui
+startSims --nogui
 
 echo "Start your agents"
 waitFor $LOGDIR/kernel.log "Kernel has shut down" 30
