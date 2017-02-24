@@ -3,7 +3,7 @@
 <scenario:scenario xmlns:scenario="urn:roborescue:map:scenario">
   <scenario:aftershock scenario:time="150" scenario:intensity="0.2"/>
   <scenario:refuge scenario:location="20337"/>
-  <scenario:refuge scenario:location="28953"/>
+  <scenario:firestation scenario:location="28953"/>
   <scenario:fire scenario:location="10756"/>
   <scenario:fire scenario:location="22670"/>
   <scenario:fire scenario:location="32574"/>
@@ -224,11 +224,12 @@
     <scenario:civilian scenario:location="32850"/>
     <scenario:civilian scenario:location="12987"/>
   -->
-  <scenario:firebrigade scenario:location="15045"/>
+  <!--<scenario:firebrigade scenario:location="15045"/>-->
+  <scenario:firebrigade scenario:location="2922"/>
   <scenario:firebrigade scenario:location="22713"/>
-  <!--
   <scenario:firebrigade scenario:location="9510"/>
   <scenario:firebrigade scenario:location="36371"/>
+  <!--
   <scenario:firebrigade scenario:location="25696"/>
   <scenario:firebrigade scenario:location="34096"/>
   <scenario:firebrigade scenario:location="21603"/>
